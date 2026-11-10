@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 TASK_OUTPUT="$1"
